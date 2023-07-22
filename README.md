@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm David DOSSEH</h1>
-<h3 align="center">A passionate software developper from Benin</h3>
+<h3 align="center">A passionate software architect from Benin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duamelo&label=Profile%20views&color=0e75b6&style=flat" alt="duamelo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duamelo" alt="duamelo" /></a> </p>
 
 - 🔭 I’m currently working on [ayajs](https://ayajs.com/)
-
-- 🌱 I’m currently learning **software architecture**
 
 - 👯 I’m looking to collaborate on [showjs](https://github.com/Duamelo/showjs)
 
@@ -17,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://github.com/Duamelo/design-pattern](https://github.com/Duamelo/design-pattern)
 
-- 💬 Ask me about **Test Driven Developement or testing in general**
+- 💬 Ask me about **Test Driven Developement/ Design pattern**
 
 - 📫 How to reach me **duamel.franck@gmail.com**
 
