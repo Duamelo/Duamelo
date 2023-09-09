@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on [ayajs](https://ayajs.com/)
 
+- 🔭 I activaly worked on [Petri net-based process monitoring]([https://ayajs.com/](https://github.com/imsp2023/petri_network))
+
+- - 🔭 I worked on [Graphical language for rest-oriented resource programming]([https://ayajs.com/](https://github.com/imsp2023/graphical_resources))
+
 - 👯 I’m looking to collaborate on [showjs](https://github.com/Duamelo/showjs)
 
 - 🤝 I’m looking for help with [fscrum](https://github.com/Emack-Technologies/fscrum)
