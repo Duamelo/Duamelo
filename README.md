@@ -11,6 +11,11 @@
 
 - 🔭 I worked on [Graphical language for rest-oriented resource programming](https://ayajs.com/](https://github.com/imsp2023/graphical_resources))
 
+- 🔭 I worked on [switchsab](https://github.com/Duamelo/switchsab)
+
+- 🔭 I worked on [cantraleIMSP](https://github.com/Duamelo/switchsab](https://github.com/Duamelo/centrale-IMSP))
+
+
 - 👯 I’m looking to collaborate on [showjs](https://github.com/Duamelo/showjs)
 
 - 🤝 I’m looking for help with [fscrum](https://github.com/Emack-Technologies/fscrum)
