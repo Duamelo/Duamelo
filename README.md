@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [ayajs](https://ayajs.com/)
 
-- 🔭 I actively worked on [Petri net-based process monitoring](https://ayajs.com/](https://github.com/imsp2023/petri_network))
+- 🔭 I actively worked on [Petri net-based process monitoring](https://github.com/imsp2023/petri_network)
 
-- 🔭 I actively worked on [Graphical language for rest-oriented resource programming](https://ayajs.com/](https://github.com/imsp2023/graphical_resources))
+- 🔭 I actively worked on [Graphical language for rest-oriented resource programming](https://github.com/imsp2023/graphical_resources)
 
 - 🔭 I actively worked on [switchsab](https://github.com/Duamelo/switchsab)
 
